@@ -11,4 +11,4 @@ Bubble is an all-in-one life management app designed to help users organize thei
 Coming soon!
 
 ## Author
-Created with love by [mxchii](https://github.com/mxchii).
+Created bc I don't wanna pay for stuff online anymore by [mxchii](https://github.com/mxchii).
